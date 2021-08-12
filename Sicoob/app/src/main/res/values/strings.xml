@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="ERROR_UNEXPECTED">Ocorreu um erro inesperado.</string>
+    <string name="NO_VALID_RESPONSE">Sem Infomação.</string>
+    <string name="NO_TOKEN">Não foi possível obter um Token válido</string>
+    <string name="NO_NETWORK">Sem conexão de Internet.</string>
+    <string name="NO_FAVORITES">Sua Listagem de Favoritos Está Vazia</string>
+    <string name="MARK">Filme inserido nos favoritos</string>
+    <string name="UNMARK">Filme Retirado dos favoritos</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="null_msg"></string>
+    <string name="MyMovies">MyMovies</string>
+
+</resources>
