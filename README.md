@@ -20,5 +20,4 @@ Tocando no no filme, você é levado para uma página de detalhes onde podemos o
 
   No alto da pagina, tocando no coração, você inclui o filme na sua listagen de favoritos. Tocando novamente, você exclui.
   
-  
-  
+  É possível realizar paginação utilizando as setas no alto do APP.
